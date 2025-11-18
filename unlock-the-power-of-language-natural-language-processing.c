@@ -1,3 +1,11 @@
+/*
+ * Course: Unlock The Power Of Language Natural Language Processing
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for NLP logs
 #include <string.h> // Include string utilities
 
@@ -17,6 +25,7 @@ int count_words(const char *s) { // Count words in string
   return count; // Return count
 } // End count_words
 
+// Main routine: orchestrates the unlock the power of language natural language processing scenario
 int main(void) { // Entry
   printf("Unlock the Power of Language: Natural Language Processing\n"); // Title
   const char *text = "This is sample text"; // Example text
